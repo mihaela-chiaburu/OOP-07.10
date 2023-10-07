@@ -7,7 +7,7 @@ public class Main {
 
         Carte carte = new Carte("Amintiri din copilarie", "Ion Creanga", 200,"galben");
 
-        System.out.println(carte);
+        System.out.println(carte); //---
 
         Student student1 = new Student("Chiaburu", "Mihaela", 21, "FI-221");
         Student student2 = new Student("Dandis", "Gheorghe", 20, "FI-221");
